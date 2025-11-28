@@ -1,0 +1,8 @@
+Fireball,fire,10,25,10,15
+Inferno,fire,15,30,15,20
+Flame Surge,fire,12,22,12,18
+Ice Shard,ice,8,20,9,14
+Freeze,ice,10,24,11,16
+Blizzard,ice,14,28,14,20
+Thunder Strike,storm,12,26,13,19
+Lightning Bolt,storm,11,23,12,17
