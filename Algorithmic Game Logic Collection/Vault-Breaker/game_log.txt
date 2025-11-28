@@ -1,0 +1,16 @@
+--- Vault Codebreaker Game Log ---
+Game Date: 2025-04-01 20:57:37
+Secret Code: 5382
+Code Length: 4
+Digit Range: 0-9
+Duplicates Allowed: 1
+Max Attempts: 10
+
+Attempt 1: 5283 => Feedback: C M C M | Score: 30
+Attempt 2: 1111 => Feedback: W W W W | Score: 22
+Attempt 3: 5832 => Feedback: C M M C | Score: 52
+Attempt 4: 5382 => Feedback: C C C C | Score: 92
+
+Final Score: 92
+Rank: Code Master 🧠
+-----------------------------------
